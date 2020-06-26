@@ -1,5 +1,12 @@
 Landing Page - The Green Company
 
+> NavBar
+> About
+> Mission
+> How it works
+> Gallery - Before | After
+> CTA
+> Social Links
 
 ## How to use
 1. Clone/Download the repo.
